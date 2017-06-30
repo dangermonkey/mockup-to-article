@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1. A lot of this has been review for me, but I will say that this is the first time I've ever used the MDN reference guide, so that was a pretty cool tool to have.
+2. All of the exercises were easy!
+3. Not jumping ahead has been difficult. In this project, I wanted to use elements like <cite> and <blockquote> and had to stop myself as the end result would have not looked exactly like the pdf, and that was the scope of the project. But unemphasized titles of things make my eyes twitch!
+4. Well, I definitely made use of the resources available to me. I think since a lot of this is review thus far, I tend to want to rush through things, and rushing is how mistakes get made. So I need to be much more deliberate about things.
